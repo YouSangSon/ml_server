@@ -1,0 +1,3 @@
+[submodule "ys_models"]
+	path = ys_models
+	url = https://github.com/YouSangSon/ys_models.git
